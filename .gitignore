@@ -1,0 +1,6 @@
+env/*
+.vscode/*
+project/api/__pycache__/*
+project/api/migrations/__pycache__/*
+project/backend/__pycache__/*
+project/backend/.env
